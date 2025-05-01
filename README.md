@@ -1,73 +1,63 @@
-<div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=asifsarker111&icon=0&color=10" alt="Visit Count">
-</div>
-
-<div align="center">
-  <h1>👋 Hi, I'm Asif Sarker</h1>
-</div>
-<br>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=22&pause=1000&color=00BFFF&background=1C1C1C00&center=true&vCenter=true&width=435&lines=Web+Development+Journey;Digital+Navigator;Aspiring+Web+Developer" alt="Typing SVG">
-  </a>
-</div>
 
 
-<br>
-  <div align="center">
-  <p><em>I completed my HSC and am currently starting my journey in web development. Technology is my passion, and I am dedicated to sharing my knowledge and experiences. I firmly believe that "helping others is the key to helping yourself."</em></p>
-</div>
 
-<br>
-<div align="center">
-  <h3>💬 Ask Me About:</h3>
-  <a href="https://your-link-here.com">
-    <img src="https://img.shields.io/badge/Web%20Development-%23F39C12.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development">
-  </a>
-</div>
+## 👨‍💻 About Me
 
-<div align="center">
-  <p>✉️ <strong>Get in Touch:</strong> <a href="mailto:gbasifsarker078@gmail.com" style="color:#4A90E2; text-decoration:none;">gbasifsarker078@gmail.com</a></p>
-</div>
-<br>
-<div align="center">
-  <h2>🌐 Socials:</h2>
-  <a href="https://www.github.com/asifsarker111" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/asif-sarker5">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100042435249468">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="https://instagram.com/asifsarker111">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/@gbasifsarker078">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
-  </a>
-</div>
+I'm a passionate MERN Stack Developer from Bangladesh, dedicated to building high-performance web applications with clean, efficient code.
 
-<br>
-<div align="center">
-  <h2>💻 Tech Stack:</h2>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+- 💻 **Full Stack Developer** specializing in JavaScript technologies
+- 🚀 **Problem Solver** who loves technical challenges
+- 📚 **Continuous Learner** always exploring new technologies
+- ⚡ **Fun Fact**: I can solve a Rubik's cube in under 2 minutes!
 
-<br>
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=asifsarker111&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+
+## 🛠 Tech Stack
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+
+###  Deployment
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+
+### Tools
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+
+
+## 🚀 Premium Projects (Income Potential 30Lakh+)
+
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| **[Enterprise SaaS Platform](https://github.com/asifcodex/saas-platform)** | AI-powered business automation suite with multi-tenant architecture | MERN, AWS, Microservices | [Live Demo](https://saas.asifcodelab.com) (Coming Soon) |
+| **[Digital Marketplace](https://github.com/asifcodex/digital-marketplace)** | NFT/Digital asset trading platform with escrow payments | Next.js, Solidity, Web3.js | [Live Demo](https://market.asifcodelab.com) (Coming Soon) |
+| **[EdTech Platform](https://github.com/asifcodex/edtech-app)** | LMS with AI tutor, video conferencing & certification | MERN, WebRTC, TensorFlow | [Live Demo](https://learn.asifcodelab.com) (Coming Soon) |
+| **[HealthTech Solution](https://github.com/asifcodex/health-app)** | Telemedicine platform with EHR integration | React Native, Node.js, HIPAA | [Live Demo](https://health.asifcodelab.com) (Coming Soon) |
+| **[FinTech Dashboard](https://github.com/asifcodex/fintech-app)** | Banking/Investment analytics with predictive algorithms | Python, Django, D3.js | [Live Demo](https://finance.asifcodelab.com) (Coming Soon) |
+
+[💎 Explore More High-Value Projects...](https://github.com/asifcodex?tab=repositories)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/asif-rahman-dev)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/asifcodex)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:contact@asifcodelab.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome&logoColor=white&style=for-the-badge)](https://asifcodelab.com)
+
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=27F7D4&style=flat-square" alt="Profile views" />
 </div>
